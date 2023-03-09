@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751079418039",
+    "project_id": "proj45-restapi-newsapp",
+    "storage_bucket": "proj45-restapi-newsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751079418039:android:22ffbdbdbacc750967c532",
+        "android_client_info": {
+          "package_name": "com.example.proj45_restapi_newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751079418039-oqbmu9jvsloehbkfe5u4rqtenc4587vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Y_K1XWB9BB-bb96WDAULtk9eFA2ia-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751079418039-oqbmu9jvsloehbkfe5u4rqtenc4587vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
